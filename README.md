@@ -1,16 +1,10 @@
-# lip_service_2
+# 눈코 - 법률 정보 검색 및 판례 유사도 분석 플랫
+
+일반인들이 일상에서 맞닥뜨리는 법적 문제는 점차 다양해지고 있으며 법적 분쟁 또한 꾸준히 증가하고 있는 실정이지만
+이러한 문제를 해결하기 위해 법률적 도움을 받는 것은 대부분의 사람들에게 어려운 과제이다.
+
+일반인들이 법적 분쟁을 겪을 때 본인의 상황과 비슷한 법령 및 판례를 검색하여 도움을 받을 수 있음
+
+## ✨ 주요 기능
 
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
